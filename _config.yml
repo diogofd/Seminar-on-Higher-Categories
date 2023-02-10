@@ -27,8 +27,10 @@ email: diogo.maria.f.andrade@tecnico.ulisboa.pt
 description: "Backend for a website page supporting the 
 graduate-level course "Seminar on Higher-Categories" for the Spring semester of 2022/2023 at Instituto Superior Técnico."
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/seminar" # the subpath of your site, e.g. /blog
+url: "https://diogofd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "diogofd/seminar-on-higher-categories" 
+
 twitter_username: jekyllrb
 github_username:  jekyll
 
