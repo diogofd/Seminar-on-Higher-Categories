@@ -17,6 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
+
 
 title: Higher Categories and Infinity Categories
 email: diogomariafa@hotmail.com
@@ -35,6 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+minimal_mistakes_skin: "sunrise"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
