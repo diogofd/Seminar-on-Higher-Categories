@@ -4,3 +4,4 @@
 
 layout: home
 ---
+I can just start typing
