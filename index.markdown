@@ -4,4 +4,4 @@
 
 layout: home
 ---
-I can just start typing and this will immediately update 
+I can just start typing and this will immediately update, right?
