@@ -4,4 +4,4 @@ Backend for a website page supporting the graduate-level course "Seminar on High
 
 The site will be hosted using GitHub Pages + Jekyll.
 
-The theme is by Minimal Mistakes.
+The theme is Minima.
