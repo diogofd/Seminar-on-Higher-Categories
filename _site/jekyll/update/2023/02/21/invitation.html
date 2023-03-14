@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>An Invitation to Higher Categories | Seminar on Infinity Categories</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="An Invitation to Higher Categories" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Higher Categories Since the dawn of category theory, higher categories have been around. In fact, anyone who has studied, even in the most superficial way, the theory of categories will have heard about functors and natural transformations. Together with categories, these form already a structure which cannot be encoded with the usual notions of object and morphism. \((\infty,1)\)-categories" />
+<meta property="og:description" content="Higher Categories Since the dawn of category theory, higher categories have been around. In fact, anyone who has studied, even in the most superficial way, the theory of categories will have heard about functors and natural transformations. Together with categories, these form already a structure which cannot be encoded with the usual notions of object and morphism. \((\infty,1)\)-categories" />
+<link rel="canonical" href="http://localhost:4000/Seminar-on-Higher-Categories/jekyll/update/2023/02/21/invitation.html" />
+<meta property="og:url" content="http://localhost:4000/Seminar-on-Higher-Categories/jekyll/update/2023/02/21/invitation.html" />
+<meta property="og:site_name" content="Seminar on Infinity Categories" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-02-21T16:40:03+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="An Invitation to Higher Categories" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-21T16:40:03+00:00","datePublished":"2023-02-21T16:40:03+00:00","description":"Higher Categories Since the dawn of category theory, higher categories have been around. In fact, anyone who has studied, even in the most superficial way, the theory of categories will have heard about functors and natural transformations. Together with categories, these form already a structure which cannot be encoded with the usual notions of object and morphism. \\((\\infty,1)\\)-categories","headline":"An Invitation to Higher Categories","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/Seminar-on-Higher-Categories/jekyll/update/2023/02/21/invitation.html"},"url":"http://localhost:4000/Seminar-on-Higher-Categories/jekyll/update/2023/02/21/invitation.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/Seminar-on-Higher-Categories/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/Seminar-on-Higher-Categories/feed.xml" title="Seminar on Infinity Categories" /><!--KaTeX-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            // ...options...
+        });
+        });
+  </script>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+  
+  
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="/assets/plugins/katex.0.11.1/katex.min.css">
+  
+  
+  <link rel="icon" type="image/png" href="/Seminar-on-Higher-Categories/favicon.png">
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/Seminar-on-Higher-Categories/">Seminar on Infinity Categories</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/Seminar-on-Higher-Categories/bibliography.html">Bibliography</a><a class="page-link" href="/Seminar-on-Higher-Categories/invitation/">Invitation</a><a class="page-link" href="/Seminar-on-Higher-Categories/lectures/">Lectures</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">An Invitation to Higher Categories</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2023-02-21T16:40:03+00:00" itemprop="datePublished">Feb 21, 2023
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h2 id="higher-categories">Higher Categories</h2>
+
+<p>Since the dawn of category theory, higher categories have been around. In fact, anyone who has studied, even in the most superficial way, the theory of categories will have heard about functors and natural transformations. Together with categories, these form already a structure which cannot be encoded with the usual notions of object and morphism.</p>
+
+<h2 id="infty1-categories">\((\infty,1)\)-categories</h2>
+
+
+  </div><a class="u-url" href="/Seminar-on-Higher-Categories/jekyll/update/2023/02/21/invitation.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/Seminar-on-Higher-Categories/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Seminar on Infinity Categories</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Seminar on Infinity Categories</li><li><a class="u-email" href="mailto:diogomariafa@hotmail.com">diogomariafa@hotmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Spring semeser 2022/2023 - Higher categories and \(\infty\)-categories</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
