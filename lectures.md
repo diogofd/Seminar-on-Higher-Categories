@@ -10,6 +10,7 @@ title: "Lectures"
 - **Date**: 01/03/2023
 - **Lecturer**: John Huerta
 - **Description**: 
+    - An introduction to $$n$$-categories
 
 ### Lecture 1
 
