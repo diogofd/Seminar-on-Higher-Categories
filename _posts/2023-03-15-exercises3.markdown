@@ -16,10 +16,16 @@ excerpt_separator: <!--more-->
 
 **Exercise 5:** Show that $$\mathsf{N}_\bullet (\mathcal C)^{\mathsf{op}}\simeq \mathsf N_\bullet(\mathcal C^{\mathsf {op}}).$$ Use it to convince yourself that precomposing with the $$\mathsf{op}$$ involution is a generalization from the usual construction for ordinary categories.
 
-**Exercise 6:** Show that 
+**Exercise 6:** Show that $$\alpha^{\ast}\colon \mathsf{Hom}(\mathsf N_{\bullet}(h X),\mathsf{N}_{\bullet}(\mathcal C))\rightarrow \mathsf{Hom}(X,\mathsf{N}_{\bullet}(\mathcal C))$$ is a bijection.
 
 **Exercise 7:** Show that if $$\mathcal C$$ is an $$\infty$$-category, there is an isomorphism $$\mathsf{h}(\mathcal C)^{\simeq}\simeq \mathsf{h}(\mathcal C^{\simeq})$$.
 
-**Exercise 8:** Show that the function complex defines a functor 
+**Exercise 9:** Show that, for a collection $$\{\mathcal C_{i}\}$$ of $$\infty$$-categories, the follwoing holds 
+
+$$h(\prod \mathcal C_i)\simeq \prod h(\mathcal C_i).$$ 
+
+In other word, the homotopy category functor *preserves products*.
+
+**Exercise 9:** Show that the function complex defines a functor 
 
 $$\mathsf{Fun}\colon \mathsf{sSet}^{\mathsf{op}}\times \mathsf{sSet} \rightarrow \mathsf{sSet}.$$
