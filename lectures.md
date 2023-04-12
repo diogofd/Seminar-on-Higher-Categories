@@ -53,7 +53,7 @@ In this page you can find the date, lecturer, a link for lecture notes by Rui, a
     - We skimmed over the small object arguement, the proof that the weak saturation of the class of boundary inclusions is the class of monomorphisms.
     - Constructed the pushout-product and pullback-hom and sketched a proof of the lifting adjunction theorem. 
 
-    - [Slides Part 1](lectures/notes/Lecture%204%20(pt1).pdf) and [Slides Part 2](/lectures/notes/Lecture%204%20(pt2).pdf) by Diogo Andrade
+    - [Slides Part 1](lectures/notes/Lecture4pt1.pdf) and [Slides Part 2](/lectures/notes/Lecture4pt2.pdf) by Diogo Andrade
 
 ### Lectrue 5
 - **Date**: 29/03/2023
