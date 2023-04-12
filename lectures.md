@@ -38,3 +38,31 @@ In this page you can find the date, lecturer, a link for lecture notes by Rui, a
     - In the end, we proved the mapping-product adjunction for simplicial sets, and in the proccess we defined mapping space/function complex $$\mathsf{Fun}(\mathcal C, \mathcal D)_\bullet$$ - this provided us with a sensible candiade for $$\infty$$-functor category.
 
   - [Notes](notes/Lecture3.pdf) by Rui Peixoto.
+
+### Lecture 4
+- **Date**: 22/03/2023
+- **Lecturer**: Diogo Andrade
+- **Summary**: 
+
+    **Part 1**:
+    - We introduced the notion of weakly saturated class and inner-anodyne map.
+    - We introdueced and showed some results concerning lifting claculus and inner fibrations.
+    
+    **Part 2**:
+    - We looked informally at some structural properties of the class of inner fibrations.
+    - We skimmed over the small object arguement, the proof that the weak saturation of the class of boundary inclusions is the class of monomorphisms.
+    - Constructed the pushout-product and pullback-hom and sketched a proof of the lifting adjunction theorem. 
+
+    - [Slides Part 1](lectures/notes/Lecture%204%20(pt1).pdf) and [Slides Part 2](/lectures/notes/Lecture%204%20(pt2).pdf) by Diogo Andrade
+
+### Lectrue 5
+- **Date**: 29/03/2023
+- **Lectruer**: Diogo Andrade
+- **Summary**: 
+
+  - We proved that the function complex is an $$\infty$$-category by showing a trifecta of technical lemmas which can be summarized as: the  pushout-product of an inner-anodyne map and a monomrphism is again inner-anodyne.
+  - We showed some variants of the above for other classes of morphisms. In particular we gave four different generating classes of morphisms for the class of inner-andoyne maps.  
+
+  - [Slides](/lectures/notes/Lecture5.pdf)
+
+    

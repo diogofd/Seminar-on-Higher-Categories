@@ -22,7 +22,8 @@ The planned structure for the lectures will be as follows:
   - [Notes](lectures/notes/Lecture2.pdf) by Rui Peixoto.
 - ~~**Week 3**~~: Weak Kan complexes as $$\infty$$-categories, and suitable generalizations, the homotopy category of an $$\infty$$-category and the simplicial mapping space.
   - [Notes](lectures/notes/Lecture3.pdf) by Rui Peixoto.
-- **Week 4**: Fibrations, skeletal filtrations, construction of the functor $$\infty$$-category.
+- **Week 4**: Introduction to fibrations, and the construction of the functor $$\infty$$-category.
+    - [Notes (Part 1)](lectures/notes/Lecture%204%20(pt1).pdf) and [(part 2)](/lectures/notes/Lecture%204%20(pt2).pdf) by Diogo Freire de Andrade  
 - **Week 5**: Introduce joins, slices and the slice-join adjunction. Construct limits and colimits.
 - **Week 6**: Introduction to coCartesian and Cartesian fibrations.
 - **Week 7**: Grothendieck-Lurie's _Straighenting-Unstraightening_ lemma and introduction to Kan extensions.
