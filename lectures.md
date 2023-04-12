@@ -20,6 +20,11 @@ In this page you can find the date, lecturer, a link for lecture notes by Rui, a
 - **Date**: 08/03/2023
 - **Lecturer**: Diogo Andrade
 - **Summary**: 
+  - We did a less-than-superficial introduction to simplicial sets and introduced some helpful notation. 
+  - We carefully introduced the nerve of a category as a simplicial set which satisfies a unique extension condition.
+  - We showed that the nerve is a fully faithful functor.
+  - We showed that nerves of categories are universally characterized by the unique extension condition.
+  
   - [Notes](notes/Lecture2.pdf) by Rui Peixoto.
 
 
