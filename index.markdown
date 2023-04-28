@@ -27,7 +27,7 @@ The planned structure for the lectures will be as follows:
 - ~~**Week 5**~~: Proof that the function complex is an $$\infty$$-category.
   - [Slides](lectures/notes/Lecture5.pdf) by Diogo Andrade
 - **Week 6**: Introduction to Joins, Slices, the Join/Slice adjunction and limits and colimits.
-  - [Slides](lectures/notes/Lecture6.pdf)
+  - [Slides](lectures/notes/Lecture6.pdf) by Diogo Andrade
 - **Week 7**: Grothendieck-Lurie's _Straighenting-Unstraightening_ lemma and introduction to Kan extensions.
 - **Week 8**: Symmetric monoidal $$\infty$$-categories (part 1).
 - **Week 9**: Symmetric monoidal $$\infty$$-categories (part 2) and an introduction to $$\infty$$-operads.
