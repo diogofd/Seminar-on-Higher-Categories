@@ -23,14 +23,16 @@ The planned structure for the lectures will be as follows:
 - ~~**Week 3**~~: Weak Kan complexes as $$\infty$$-categories, and suitable generalizations, the homotopy category of an $$\infty$$-category and the simplicial mapping space.
   - [Notes](lectures/notes/Lecture3.pdf) by Rui Peixoto.
 - ~~**Week 4**~~: Introduction to fibrations, and the construction of the functor $$\infty$$-category.
-  - [Notes (Part 1)](lectures/notes/Lecture4pt1.pdf) and [(part 2)](/lectures/notes/Lecture4pt2.pdf) by Diogo Andrade  
+  - [Notes (Part 1)](lectures/notes/Lecture4pt1.pdf) and [(part 2)](/lectures/notes/Lecture4pt2.pdf) by Diogo Andrade
 - ~~**Week 5**~~: Proof that the function complex is an $$\infty$$-category.
   - [Slides](lectures/notes/Lecture5.pdf) by Diogo Andrade
-- **Week 6**: Introduction to Joins, Slices, the Join/Slice adjunction and limits and colimits.
+- ~~**Week 6**~~: Introduction to Joins, Slices, the Join/Slice adjunction and limits and colimits.
   - [Slides](lectures/notes/Lecture6.pdf) by Diogo Andrade
 - **Week 7**: Grothendieck-Lurie's _Straighenting-Unstraightening_ lemma and introduction to Kan extensions.
 - **Week 8**: Symmetric monoidal $$\infty$$-categories (part 1).
 - **Week 9**: Symmetric monoidal $$\infty$$-categories (part 2) and an introduction to $$\infty$$-operads.
 
-More detailed information on the lectures i.e. the summary, can be found in  the page [Lectures](diogofd.github.io/Seminar-on-Higher-Categories/lectures/).
-The remaining lectures are expected to be given by the participants. The topics can be chosen from the list of [Topics]().
+More detailed information on the lectures i.e. the summary, can be found in the page
+[Lectures](diogofd.github.io/Seminar-on-Higher-Categories/lectures/). The remaining
+lectures are expected to be given by the participants. The topics can be chosen from
+the list of [Topics](topics/).
