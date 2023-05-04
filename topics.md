@@ -6,7 +6,8 @@ title: "Topics"
 ---
 
 The following is a list of potential topics for lectures by the seminar participants.
-It is not exhaustive; you are welcome to propose your own topic!
+It is not exhaustive; you are welcome to propose your own topic! You are also welcome
+to email us with suggested references for any given topic.
 
 ## Topics claimed by a participant:
 
