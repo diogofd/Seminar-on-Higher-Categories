@@ -5,13 +5,13 @@
 layout: home
 ---
 
-Hey everyone, this is the official page for the seminar on $$\infty$$-categories ran by [John Huerta](https://math.tecnico.ulisboa.pt/~jhuerta/) and Diogo Freire de Andrade in the Spring Semester of the 2022/2023 academic year.
+This is the official page for the seminar on $$\infty$$-categories run by [John Huerta](https://math.tecnico.ulisboa.pt/~jhuerta/) and Diogo Freire de Andrade in the Spring Semester of the 2022/2023 academic year.
 
 ## Prerequisites
 The seminar is designed for everyone who has been lightly exposed to **Category Theory** and **Algebraic Topology**, but we do not assume more than superficial knowledge of homotopies, functors, limits and colimits - we have designed it to be as self-contained as possible.
 
 ## Seminar Structure:
-The seminar will be ran **weekly**, in a 2-hour-lecture format, on **Wednesdays, from 14:30h to 16:30h in QA1.4**, the South Tower (Chemistry building).
+The seminar will take place **weekly**, in a two-hour lecture format, on **Wednesdays, from 14:30 to 16:30 in P5.18** (mathematics building).
 
 ### Outline:
 The planned structure for the lectures will be as follows:
@@ -28,11 +28,17 @@ The planned structure for the lectures will be as follows:
   - [Slides](lectures/notes/Lecture5.pdf) by Diogo Andrade
 - ~~**Week 6**~~: Introduction to Joins, Slices, the Join/Slice adjunction and limits and colimits.
   - [Slides](lectures/notes/Lecture6.pdf) by Diogo Andrade
-- **Week 7**: Grothendieck-Lurie's _Straighenting-Unstraightening_ lemma and introduction to Kan extensions.
-- **Week 8**: Symmetric monoidal $$\infty$$-categories (part 1).
-- **Week 9**: Symmetric monoidal $$\infty$$-categories (part 2) and an introduction to $$\infty$$-operads.
+- ~~**Week 7**~~: More on the join/slice adjunction; the definition of initial and terminal objects.
 
-More detailed information on the lectures i.e. the summary, can be found in the page
-[Lectures](diogofd.github.io/Seminar-on-Higher-Categories/lectures/). The remaining
+*In the following weeks, seminar participants will present [topics](topics/) of their choice:*
+- **Week 8**: James Macpherson on weighted joins.
+- **Week 9**: TBD
+- **Week 10**: TBD
+- **Week 11**: TBD
+- **Week 12**: TBD
+- **Week 13**: TBD
+
+More detailed information on the lectures can be found in the page
+[lectures](diogofd.github.io/Seminar-on-Higher-Categories/lectures/). The remaining
 lectures are expected to be given by the participants. The topics can be chosen from
-the list of [Topics](topics/).
+the list of [topics](topics/). You can email us with a choice of topic!
