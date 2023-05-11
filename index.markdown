@@ -31,12 +31,12 @@ The planned structure for the lectures will be as follows:
 - ~~**Week 7**~~: More on the join/slice adjunction; the definition of initial and terminal objects.
 
 *In the following weeks, seminar participants will present [topics](topics/) of their choice:*
-- **Week 8**: James Macpherson on weighted joins.
-- **Week 9**: TBD
-- **Week 10**: TBD
-- **Week 11**: TBD
-- **Week 12**: TBD
-- **Week 13**: TBD
+- ~~**Week 8** - 10 May 2023~~: James Macpherson on weighted joins.
+- **Week 9** - 17 May 2023: TBD
+- **Week 10** - 24 May 2023: Rui Peixoto on the cobordism hypothesis.
+- **Week 11** - 31 May 2023: Björn Gohla on Segal n-categories, a model for (∞,n)-categories.
+- **Week 12** - 7 June 2023: Nino Scalbi on functorial field theory.
+- **Week 13** - 14 June 2023: TBD
 
 More detailed information on the lectures can be found in the page
 [lectures](diogofd.github.io/Seminar-on-Higher-Categories/lectures/). The remaining

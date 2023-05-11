@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Exercises for post-Lecture 3"
+title:  "Exercises for Lecture 3"
 date:   2023-03-15 08:55:03 +0000
 categories: jekyll update
 katex: True
 excerpt_separator: <!--more-->
 ---
-# Exercises for post-Lecture 3
+# Exercises for Lecture 3
 
 **Exercise 1:** Check that if $$\mathcal{C},\mathcal{D}$$ are ordinary categories, then $$\mathsf{N}_\bullet(\mathcal{C}\times\mathcal{D})\simeq \mathsf{N}_\bullet(\mathcal{C})\times \mathsf{N}_\bullet(\mathcal{D})$$, hence establishing that the product of $$\infty$$-categories generalizes that of products of categories.
 
-**Exercise 4: ($$\infty$$-subcategories are determined by their morphisms)** Let $$\mathcal C$$ be an $$\infty$$-category and consider a collection $$S\subset \mathcal C_1$$ of morphisms in $$\mathcal C$$. Define $$\mathcal C_n':=\{a\in\mathcal C_n\colon\,a_{ij}\in S \text{ for all }0\leq i \leq j\leq n\}.$$ Now show that the $$\mathcal C_n ‘s$$ describe a subsimplicial set $$\mathcal C'$$ of $$\mathcal C$$ if and only if $$f_{00},f_{11}\in S$$ for all $$f\in S$$. 
+**Exercise 4: ($$\infty$$-subcategories are determined by their morphisms)** Let $$\mathcal C$$ be an $$\infty$$-category and consider a collection $$S\subset \mathcal C_1$$ of morphisms in $$\mathcal C$$. Define $$\mathcal C_n':=\{a\in\mathcal C_n\colon\,a_{ij}\in S \text{ for all }0\leq i \leq j\leq n\}.$$ Now show that the $$\mathcal C_n ‘s$$ describe a subsimplicial set $$\mathcal C'$$ of $$\mathcal C$$ if and only if $$f_{00},f_{11}\in S$$ for all $$f\in S$$.
 
-**Exercise 4’:** Show that furthermore $$\mathcal C'$$ is an $$\infty$$-subcategory if and only if, in addition, for all $$u\in \mathcal C_2$$ we have that $$u_{01},u_{12}\in S$$ implies $$u_{02}\in S$$.   
+**Exercise 4’:** Show that furthermore $$\mathcal C'$$ is an $$\infty$$-subcategory if and only if, in addition, for all $$u\in \mathcal C_2$$ we have that $$u_{01},u_{12}\in S$$ implies $$u_{02}\in S$$.
 
 **Exercise 5:** Show that $$\mathsf{N}_\bullet (\mathcal C)^{\mathsf{op}}\simeq \mathsf N_\bullet(\mathcal C^{\mathsf {op}}).$$ Use it to convince yourself that precomposing with the $$\mathsf{op}$$ involution is a generalization from the usual construction for ordinary categories.
 
@@ -20,12 +20,12 @@ excerpt_separator: <!--more-->
 
 **Exercise 7:** Show that if $$\mathcal C$$ is an $$\infty$$-category, there is an isomorphism $$\mathsf{h}(\mathcal C)^{\simeq}\simeq \mathsf{h}(\mathcal C^{\simeq})$$.
 
-**Exercise 9:** Show that, for a collection $$\{\mathcal C_{i}\}$$ of $$\infty$$-categories, the follwoing holds 
+**Exercise 9:** Show that, for a collection $$\{\mathcal C_{i}\}$$ of $$\infty$$-categories, the follwoing holds
 
-$$h(\prod \mathcal C_i)\simeq \prod h(\mathcal C_i).$$ 
+$$h(\prod \mathcal C_i)\simeq \prod h(\mathcal C_i).$$
 
 In other word, the homotopy category functor *preserves products*.
 
-**Exercise 9:** Show that the function complex defines a functor 
+**Exercise 9:** Show that the function complex defines a functor
 
 $$\mathsf{Fun}\colon \mathsf{sSet}^{\mathsf{op}}\times \mathsf{sSet} \rightarrow \mathsf{sSet}.$$
