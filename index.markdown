@@ -29,7 +29,7 @@ The planned structure for the lectures will be as follows:
 - ~~**Week 6**~~: Introduction to Joins, Slices, the Join/Slice adjunction and limits and colimits.
   - [Slides](lectures/notes/Lecture6.pdf) by Diogo Andrade
 - ~~**Week 7**~~: More on the join/slice adjunction; the definition of initial and terminal objects.
-
+  - [Slides](lectures/notes/Lecture7.pdf) by Diogo Andrade
 *In the following weeks, seminar participants will present [topics](topics/) of their choice:*
 - ~~**Week 8** - 10 May 2023~~: James Macpherson on weighted joins.
 - **Week 9** - 17 May 2023: TBD
