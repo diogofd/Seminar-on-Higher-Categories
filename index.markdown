@@ -25,14 +25,16 @@ The planned structure for the lectures will be as follows:
 - ~~**Week 4**~~: Introduction to fibrations, and the construction of the functor $$\infty$$-category.
   - [Notes (Part 1)](lectures/notes/Lecture4pt1.pdf) and [(part 2)](/lectures/notes/Lecture4pt2.pdf) by Diogo Andrade
 - ~~**Week 5**~~: Proof that the function complex is an $$\infty$$-category.
-  - [Slides](lectures/notes/Lecture5.pdf) by Diogo Andrade
+  - [Slides](lectures/notes/Lecture5.pdf) by Diogo Andrade.
 - ~~**Week 6**~~: Introduction to Joins, Slices, the Join/Slice adjunction and limits and colimits.
-  - [Slides](lectures/notes/Lecture6.pdf) by Diogo Andrade
+  - [Slides](lectures/notes/Lecture6.pdf) by Diogo Andrade.
 - ~~**Week 7**~~: More on the join/slice adjunction; the definition of initial and terminal objects.
-  - [Slides](lectures/notes/Lecture7.pdf) by Diogo Andrade
+  - [Slides](lectures/notes/Lecture7.pdf) by Diogo Andrade.
+
 *In the following weeks, seminar participants will present [topics](topics/) of their choice:*
+
 - ~~**Week 8** - 10 May 2023~~: James Macpherson on weighted joins.
-- **Week 9** - 17 May 2023: Diogo Andrade on higher Morita categories of $$\mathbb{E}_n$$-algebras
+- **Week 9** - 17 May 2023: Diogo Andrade on higher Morita categories of $$\mathbb{E}_n$$-algebras.
 - **Week 10** - 24 May 2023: Rui Peixoto on the cobordism hypothesis.
 - **Week 11** - 31 May 2023: Björn Gohla on Segal n-categories, a model for (∞,n)-categories.
 - **Week 12** - 7 June 2023: Nino Scalbi on functorial field theory.
