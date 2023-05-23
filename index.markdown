@@ -32,8 +32,9 @@ The planned structure for the lectures will be as follows:
   - [Slides](lectures/notes/Lecture7.pdf) by Diogo Andrade.
 
 *In the following weeks, seminar participants will present [topics](topics/) of their choice:*
-- ~~**Week 8** - 10 May 2023~~: James Macpherson on weighted joins.
-- **Week 9** - 17 May 2023: Diogo Andrade on higher Morita categories of $$\mathbb{E}_n$$-algebras
+- ~~**Week 8**~~ - 10 May 2023: James Macpherson on weighted joins.
+- ~~**Week 9**~~ - 17 May 2023: Diogo Andrade on higher Morita categories of $$\mathbb{E}_n$$-algebras
+  - [Notes](/lectures/notes/Lecture-Diogo.pdf) by Rui Peixoto
 - **Week 10** - 24 May 2023: Rui Peixoto on the cobordism hypothesis.
 - **Week 11** - 31 May 2023: Björn Gohla on Segal n-categories, a model for (∞,n)-categories.
 - **Week 12** - 7 June 2023: Nino Scalbi on functorial field theory.
