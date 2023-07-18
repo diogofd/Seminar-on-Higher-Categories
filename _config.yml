@@ -26,18 +26,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/Seminar-on-Higher-Categories" # the subpath of your site, e.g. /blog
 url: "https://diogofd.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  
+github_username:
 
 # Build settings
 
 theme: minima
 
-minima: 
+minima:
   skin: solarized-light
 
 kramdown:
   math_engine: katex
 
+plugins:
+  - jekyll-katex
 
 #vplugins:
 #  - jekyll-feed
